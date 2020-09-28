@@ -9,6 +9,6 @@
 
 В моем задании методом построения матрицы был задан "Минимум в строке". Слайд №14 в прикрепленной презентации к проекту.
 
-https://github.com/Katalashka/TransportExercise/blob/master/Transportnaya_zadacha.pptx - Презентация с описанием транспортной задачи.
+https://github.com/Katalashka/TransportExercise/raw/master/Transportnaya_zadacha.pptx - Презентация с описанием транспортной задачи.
 
 
